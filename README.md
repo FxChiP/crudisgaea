@@ -12,6 +12,8 @@ learning how to write Flask apps.
 
 ## Running it
 
+`poetry install && poetry shell` to get into the poetry virtualenv
+
 `flask --app crudisgaea.app run`
 
 If you want to test the auth middleware:
